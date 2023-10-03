@@ -1,6 +1,0 @@
-var x = 10;
-var str = "Hello, World!";
-
-if (x >= 10) {
-    print str;
-}
